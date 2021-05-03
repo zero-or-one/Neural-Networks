@@ -1,7 +1,7 @@
 # Neural-Networks
-EE538 Neural Networks, KAIST homework codes
-Professor: Soo-Young Lee 
-Textbook: S. Haykin, Neural Networks and Learning Machines (3rd Edition), Prentice Hall, 2008.
+EE538 Neural Networks, KAIST homework codes\n
+Professor: Soo-Young Lee \n
+Textbook: S. Haykin, Neural Networks and Learning Machines (3rd Edition), Prentice Hall, 2008.\n
 
 This course was designed to provide students capability to create their own deep learning model, 
 i.e., network architectures and learning algorithms, for artificial intelligence based on the brain 
