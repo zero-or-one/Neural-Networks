@@ -1,5 +1,5 @@
 # Neural-Networks
-EE538 Neural Networks, KAIST homework codes
+EE538 Neural Networks, KAIST homework code
 
 Professor: Soo-Young Lee 
 
